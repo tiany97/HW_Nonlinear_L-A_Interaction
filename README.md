@@ -13,4 +13,4 @@ For global scale analysis:
 
 Run "YT_nonlinear_try_jja_detrend_WEU_allgrid_jja_only_copy0_3d_MAE_ERAland_GBR_5fold_Tmax" to produce SHAP value
 
-Run "YT_nonlinear_try_jja_detrend_allgrid_jja_only_draw MAE oringinal_abs_T_ERAland_5fold_Tmax_GBR_CMIP6_ML_Mollweide_quantile_regress_50_oldSig-main" to access the nonlinearity of three contributors
+
